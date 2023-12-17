@@ -1,4 +1,17 @@
-### Hi there 👋
+
+# Code Example
+
+# Android Samples
+
+- AndroidTcpDemo-GetNISTTime
+
+![nist_demo.png](Android/AndroidTcpDemo-GetNISTTime/socket_android_tcp_nist_demo.png)
+
+- AndroidTcpClientServer
+
+    ![android_socker_tcp_client.png](Android/AndroidTcpClientServer/android_socker_tcp_client.png)
+
+    ![android_socket_tcp_server.png](Android/AndroidTcpClientServer/android_socket_tcp_server.png)
 
 <!--
 **milaiai/milaiai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
