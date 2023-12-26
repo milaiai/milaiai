@@ -82,6 +82,7 @@ public class ServerActivity extends AppCompatActivity {
                 throw new RuntimeException(e);
             }
         }
+
         public void StopServer(){
             serverRunning = false;
             new Thread(new Runnable() {

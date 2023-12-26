@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:onClick="onClictConnect"
     tools:context=".MainActivity">
 
     <TextView
@@ -49,7 +50,7 @@
         android:layout_marginTop="44dp"
         android:ems="10"
         android:inputType="text"
-        android:text="Server Port"
+        android:text="8899"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.582"
         app:layout_constraintStart_toStartOf="parent"
@@ -62,7 +63,7 @@
         android:layout_marginTop="68dp"
         android:ems="10"
         android:inputType="text"
-        android:text="Server IP"
+        android:text="127.0.0.1"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.582"
         app:layout_constraintStart_toStartOf="parent"

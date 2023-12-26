@@ -25,6 +25,10 @@ android {
             )
             isRenderscriptDebuggable = false
         }
+        getByName("debug") {
+            isRenderscriptDebuggable = true
+            isJniDebuggable = true
+        }
     }
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_1_8

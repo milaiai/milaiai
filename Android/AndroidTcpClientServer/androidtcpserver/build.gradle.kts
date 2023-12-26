@@ -26,7 +26,7 @@ android {
         }
         getByName("debug") {
             isJniDebuggable = true
-            isRenderscriptDebuggable = false
+            isRenderscriptDebuggable = true
         }
     }
     compileOptions {
